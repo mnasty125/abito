@@ -361,6 +361,10 @@ body{
          width: 100%;
          height: 200px;
      }
+
+     .main-single{
+         display: block;
+    }
  }
 
  @media (max-width: 992px) {
@@ -445,7 +449,8 @@ body{
     .search-button-text {
         display: none;
     }
- }
+
+}
 
  @media (max-width: 576px) {
     .container {
